@@ -1,0 +1,23 @@
+{
+  "name": "codedev",
+  "version": "1.0.0",
+  "description": "Exercise concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catabimbas/box.git"
+  },
+  "author": "catabimbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catabimbas/box/issues"
+  },
+  "homepage": "https://github.com/catabimbas/box#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
